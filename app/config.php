@@ -7,7 +7,7 @@ define( 'SMARTY_TEMPLATE_BASE_URL', BASE_URL . 'app/public/views/templates/' );
 define( 'VIEWS_BASE_URL',           BASE_URL . 'app/public/views/' );
 define( 'DEVELOPMENT_MODE',         true ); //true (dev)|false (prod)
 
-define( 'LANG', 'es-ES');   //es-ES|en-EN
+define( 'LANG', 'en-EN');   //es-ES|en-EN
 
 define( 'KEY_SALT', 'vpesZ4-_%[O[KrFO&Jc2-PD{,.cXwbQCHxasjot?x?X+f)xXQVn"l0d3(`ri6x.');
 
