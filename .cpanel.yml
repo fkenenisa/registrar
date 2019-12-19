@@ -1,0 +1,8 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/maedotsc/public_html/
+    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp style.css $DEPLOYPATH
+# This is a file I created in order to deploy the registrar application to my cpanel.
+# I have copy and modefy from the documentation.
